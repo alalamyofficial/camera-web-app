@@ -1,0 +1,33 @@
+body{
+
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+
+}
+#video{
+
+
+    border: 2px solid gray;
+    /* border-radius: 40px; */
+    margin-left: 120px;
+
+}
+button{
+
+    width: 500px;
+    margin-left: -505px;
+    margin-top: 50px;
+
+}
+html{
+
+    margin: 0;
+    padding: 0;
+
+}
+canvas{
+
+    border-radius: 30px;
+    margin-left: 743px;
+    margin-top: -534px;
+
+}
